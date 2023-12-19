@@ -1,0 +1,62 @@
+[
+  {
+    "idAnnuncio": 1,
+    "chiave": "metri quadri",
+    "valore": "100 mq"
+  },
+  {
+    "idAnnuncio": 2,
+    "chiave": "metri quadri",
+    "valore": "80 mq"
+  },
+  {
+    "idAnnuncio": 3,
+    "chiave": "metri quadri",
+    "valore": "120 mq"
+  },
+  {
+    "idAnnuncio": 4,
+    "chiave": "metri quadri",
+    "valore": "90 mq"
+  },
+  {
+    "idAnnuncio": 5,
+    "chiave": "metri quadri",
+    "valore": "120 mq"
+  },
+  {
+    "idAnnuncio": 6,
+    "chiave": "metri quadri",
+    "valore": "100 mq"
+  },
+  {
+    "idAnnuncio":7,
+    "chiave": "metri quadri",
+    "valore": "90 mq"
+  },
+  {
+    "idAnnuncio": 8,
+    "chiave": "metri quadri",
+    "valore": "100 mq"
+  },
+  {
+    "idAnnuncio": 9,
+    "chiave": "metri quadri",
+    "valore": "100 mq"
+  },
+  {
+    "idAnnuncio": 10,
+    "chiave": "metri quadri",
+    "valore": "120 mq"
+  },
+  {
+    "idAnnuncio": 5,
+    "chiave": "spese condominio",
+    "valore": "20€ mensili"
+  },
+  {
+    "idAnnuncio": 7,
+    "chiave": "utenze",
+    "valore": "50€ mensili"
+  }
+]

@@ -1,0 +1,89 @@
+
+[
+  {
+    "id": "CU001",
+    "nome": "Città universitaria",
+    "indirizzo": "Piazzale Aldo Moro  5",
+    "citta": "roma"
+  },
+
+  {
+    "id": "CU03",
+    "nome": "Architettura - Borghetto Flaminio",
+    "indirizzo": "Via Flaminia 70",
+    "citta": "roma"
+  },
+  {
+    "id": "CU4",
+    "nome": "Architettura - Piazza Borghese",
+    "indirizzo": "Piazza Borghese 9",
+    "citta": "roma"
+  },
+
+  {
+    "id": "CU5",
+    "nome": "Architettura - Via Gianturco",
+    "indirizzo": "Via Gianturco 2",
+    "citta": "roma"
+  },
+  {
+    "id": "CU6",
+    "nome": "Architettura - Via Gramsci",
+    "indirizzo": "Via Gramsci 53",
+    "citta": "roma"
+  },
+  {
+    "id": "CU7",
+    "nome": "Ariosto",
+    "indirizzo": "Via Ariosto 25",
+    "citta": "roma"
+  },
+  {
+    "id": "CU8",
+    "nome": "Azienda ospedaliero-universitaria Sant'Andrea",
+    "indirizzo": "Via di Grottarossa 1035",
+    "citta": "roma"
+  },
+  {
+    "id": "CU9",
+    "nome": "Laurenziano",
+    "indirizzo": "Via del Castro Laurenziano 9",
+    "citta": "roma"
+  },
+  {
+    "id": "CU10",
+    "nome": "Complesso 'Marco Polo'",
+    "indirizzo": "Viale dello Scalo di San Lorenzo 82",
+    "citta": "roma"
+  },
+  {
+    "id": "CU11",
+    "nome": "Ingegneria - S. Pietro in vincoli",
+    "indirizzo": "Piazza di San Pietro in vincoli 4",
+    "citta": "roma"
+  },
+  {
+    "id": "CU12",
+    "nome": "Policlinico Umberto I",
+    "indirizzo": "Viale del Policlinico 155",
+    "citta": "roma"
+  },
+  {
+    "id": "CU13",
+    "nome": "Salaria 113",
+    "indirizzo": "Via Salaria 113",
+    "citta": "roma"
+  },
+  {
+    "id": "RM014",
+    "nome": "Via Scarpa",
+    "indirizzo": "Via Antonio Scarpa 16",
+    "citta": "roma"
+  },
+  {
+    "id": "CU88",
+    "nome": "Villa Mirafiori",
+    "indirizzo": "Via Carlo Fea 2",
+    "citta": "roma"
+  }
+]
